@@ -1,0 +1,8 @@
+
+@font-face {
+	font-family: 'Graphik-Regular';
+	font-style: normal;
+	font-weight: 100;
+	src: local('Graphik-Regular'), local('Graphik-Regular'), url('../font/graphik/Graphik-Regular.woff') format('woff');
+}
+
